@@ -20,8 +20,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
-import br.com.fortics.smartzap.appclient.Manifest;
-
 /**
  * Created by lucas on 22/12/17.
  */
